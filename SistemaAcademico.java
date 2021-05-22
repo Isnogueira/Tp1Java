@@ -2,7 +2,7 @@ package br.edu.infnet.tp1java;
 
 import java.util.Scanner;
 
-public class Boletim {
+public class SistemaAcademico {
 
     private static String[] nomes;
     private static float[] avs1;
